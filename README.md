@@ -1,3 +1,3 @@
 # conflict-resolution
 
-all of this content
+all of this content 1
